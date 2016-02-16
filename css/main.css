@@ -1,0 +1,98 @@
+html,body{
+	background: #dfdfe9;
+	background-size: cover;
+	background-repeat: repeat;
+	font-family: "Open Sans";
+	font-size:12px;
+}
+
+.logo span{
+	font-family: "Open Sans";
+	color:white;
+	font-weight: 800;
+	font-size: 2rem;
+
+}
+
+.logo p{
+	font-family:"Dosis";
+	color:white;
+	font-size: 1.5rem;
+}
+
+.navbar-inverse{
+	background-color: #322e39;
+}
+
+.fotouno{
+	width: 600px;
+	height: 400px;
+	display: inline-block;
+}
+
+.titular{
+	font-weight: 500;
+}
+
+.btn-lg{
+	font-size: 12px;
+	border-radius: 20px;
+	padding: 5px 15px 5px 15px;
+	background-color:#b0adb7;
+}
+
+hr { 
+   border-top: 3px solid #d0d0d3; 
+   border-bottom: 2px dashed #d0d0d3; 
+   border-left:none; 
+   border-right:none; 
+   height: 6px; 
+ }
+
+ .menudos{
+ 	color:black;
+ }
+
+ .nav{
+ 	border-bottom: none !important; 
+ }
+
+ .ti{
+ 	margin-left: 20px;
+ 	margin-top: 15px;
+ 	font-size: 1.5rem;
+ 	font-weight: 500;
+ }
+
+ .pa{
+ 	margin-left: 20px;
+ 	margin-top: 15px;
+ }
+
+.btn.btn-lg.text-white{
+	font-size: 15px;
+	border-radius: 20px;
+	padding: 8px 30px 8px 30px;
+	background-color:#6c6577;
+	margin-top: 10%;
+}
+
+.pd{
+	padding: 40px;
+	font-size: 20px;
+	color: #878291;
+}
+
+a em{
+	color:#ee326f;
+}
+
+a:hover{
+	text-decoration: none !important;
+	}
+
+.fa-5x{
+	padding: 23%;
+	color:#b0adb7;
+}
+
